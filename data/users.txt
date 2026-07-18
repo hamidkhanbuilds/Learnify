@@ -1,22 +1,15 @@
-3
+2
 Admin
-zahoor123
-zahoor
-Zahoor@gmail.com
-Zahoor@123
-Peshawar
-123456789
+admin_test
+Test Admin
+admin@example.com
+Test@123
+main 123 st
++92 300000000
 Instructor
-Saad123
-Saad Rashad
-saad@gmail.com
-Saad@123
-Peshawar
-123456789
-Student
-Hamid000
-Hamid han
-hkj9076704@gmail.vom
-Hamid@000
-Shamid road, Peshawar
-03013456789
+instructor_test
+Test Instructor
+instructor@example.com
+Test@1234
+Main 2 st
++92 3000000000
